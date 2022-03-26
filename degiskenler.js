@@ -50,5 +50,5 @@ console.log(email);
 email='bcd@gmail.com';
 console.log(email); //böyle dersem hata alırım çünkü emaili const yani sabit tanımladım!
 
-
+console.clear();
 
