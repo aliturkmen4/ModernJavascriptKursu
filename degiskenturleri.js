@@ -53,3 +53,5 @@ var calculateAge=function(){
 };
 
 console.log(typeof calculateAge);
+
+console.clear();
